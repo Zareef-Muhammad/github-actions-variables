@@ -1,4 +1,4 @@
-name: Workflow Demo
+name: Test Variable Workflow
 
 on: 
   push
